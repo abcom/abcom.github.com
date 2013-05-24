@@ -4,7 +4,7 @@
   <title><![CDATA[Category: security checklist | Everything on Information Security]]></title>
   <link href="http://infosecly.com/blog/categories/security-checklist/atom.xml" rel="self"/>
   <link href="http://infosecly.com/"/>
-  <updated>2013-05-24T22:41:39+08:00</updated>
+  <updated>2013-05-24T22:46:43+08:00</updated>
   <id>http://infosecly.com/</id>
   <author>
     <name><![CDATA[infosecly]]></name>
@@ -22,16 +22,13 @@
 
 <p>I know most of us are very busy and don&rsquo;t have time to check all of those settings, so this is where a basic security checklist becomes a handy. This post mainly addresses major security concerns with respect to <a href="http://djangoframework.com">Django framework</a> and lists down the common security settings specific to Django.</p>
 
-<!--more-->
-
-
 <p>You don&rsquo;t have to set all of these settings, but it&rsquo;s strongly recommended.</p>
 
 <p><strong>Django security checklist:</strong></p>
 
 <ol>
 <li><strong>Secret Key:</strong>
-Set your secret key to a big random unique value and keep it always secret.  Do not hardcode it, source it from the environment variables.</li>
+Set your secret key to a big random unique value and keep it always secret.  Do not hardcode it, source it from the environment variables. <!--more--></li>
 <li><strong>Database passwords:</strong>
 Follow point #1 for Database passwords.</li>
 <li><strong>Debug Mode:</strong>
