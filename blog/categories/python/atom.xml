@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Everything on Information Security]]></title>
-  <link href="http://infosecly.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: python | Everything on Information Security]]></title>
+  <link href="http://infosecly.com/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://infosecly.com/"/>
   <updated>2013-05-24T22:41:39+08:00</updated>
   <id>http://infosecly.com/</id>
@@ -62,19 +62,6 @@ Also, checkout <a href="http://django-secure.readthedocs.org/en/latest/index.htm
 
 
 <p><strong>Please let me know if you have anything to add, would be glad to update the post.</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blogging with Jekyll]]></title>
-    <link href="http://infosecly.com/2013/05/17/blogging-with-jekyll/"/>
-    <updated>2013-05-17T18:51:00+08:00</updated>
-    <id>http://infosecly.com/2013/05/17/blogging-with-jekyll</id>
-    <content type="html"><![CDATA[<p>Finally, I have decided to use Jekyll for my personal blog on Information Security and have chosen <a href="http://jekyllbootstrap.com">Octopress</a>, thinking I would spent less effort for design/ configuration tweaks ;).</p>
-
-<p>To be honest, I didn&rsquo;t like the default theme (no offense if you are using one), so after googling around I have found <a href="https://github.com/mjhea0/whiterspace">Whiterspace</a> theme and tweaked it a bit.</p>
-
-<p>It took me less than a day to setup everything, configuring and rewriting some parts of the code to meet my design tastes. I didn&rsquo;t have any previous CSS or Rails experience before setting up this blog, so I think it&rsquo;s a useful time to spend. What do you think?</p>
 ]]></content>
   </entry>
   
