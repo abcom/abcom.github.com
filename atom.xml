@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://abcom.github.io/atom.xml" rel="self"/>
-  <link href="http://abcom.github.io/"/>
-  <updated>2013-05-24T16:11:46+08:00</updated>
-  <id>http://abcom.github.io/</id>
+  <title><![CDATA[Everything on Information Security]]></title>
+  <link href="http://infosecly.com/atom.xml" rel="self"/>
+  <link href="http://infosecly.com/"/>
+  <updated>2013-05-24T17:40:00+08:00</updated>
+  <id>http://infosecly.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[infosecly]]></name>
+    <email><![CDATA[infosecly@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

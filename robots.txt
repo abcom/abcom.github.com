@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://abcom.github.io/sitemap.xml 
+Sitemap: http://infosecly.com/sitemap.xml 
